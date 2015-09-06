@@ -1,2 +1,5 @@
 My Project
 This is my second project
+
+Adding this line which will be reverted back by "git revert <SHA>"
+
